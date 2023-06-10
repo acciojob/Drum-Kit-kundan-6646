@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+button {
+	background: #000;
+	color: #fff;
+	padding: 5px 10x;
+	border-radius: 3px;
+	outline: none;
+	margin: 0 10px;
+	cursor: pointer;
+}
